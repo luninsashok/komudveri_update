@@ -46,9 +46,9 @@
             </div>
             <div id="img"><img src="img/logo.svg"></div>
         </div>
-        <div id="menu" class="clear">
+        <div id="menu" class="clear" style="display: flex;justify-content:center;">
             <ul> <a href="p/mejkonatnie-dveri-ns.php">
-                    <li>
+                    <li style="width: 200px">
                         <div id="li-item">Межкомнатные двери "Новый Стиль"</div>
                     </li>
                 </a> </ul>

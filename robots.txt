@@ -1,0 +1,11 @@
+Host: https://komudveri.in.ua
+
+User-agent: *
+Disallow: /admin/*
+Disallow: /cgi-bin/*
+Disallow: /css/*
+Disallow: /fonts/*
+Disallow: /img/*
+Disallow: /js/*
+Sitemap: https://komudveri.in.ua/sitemap.xml
+
